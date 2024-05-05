@@ -51,3 +51,10 @@ Contributions are welcome! If you have suggestions for improvements or want to c
 Special thanks to UBISOFT ROMANIA for their partnership and support in bringing this project to fruition.
 
 We also appreciate the contributions from all developers and contributors who have helped enhance this project.
+
+
+
+# Roumanian Translation Below
+---
+
+
